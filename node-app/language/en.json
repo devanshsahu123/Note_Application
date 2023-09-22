@@ -1,0 +1,6 @@
+{
+	"UNAUTHORIZE": "You are not authorize.",
+	"NOT_USER": "You are not a user.",
+	"VALIDATION_FAILED": "VALIDATION_FAILED",
+	"Token verification failed": "Token verification failed"
+}
